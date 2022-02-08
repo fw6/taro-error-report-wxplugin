@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"pluginRoot": "plugin/",
+	"compileType": "plugin",
+	"appid": "wx1e4bb64320ad552f",
+	"projectname": "test-wechat-taro-react",
+	"description": "test-wechat-taro-react",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	}
+}
